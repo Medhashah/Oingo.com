@@ -1,0 +1,2 @@
+# Oingo.com
+Oingo is a web based application that allows users to share useful information via their mobile devices based on social, geographic, temporal, and keyword constraints.The main idea in oingo is that users can publish information in the form of short notes, and then link these notes to certain locations and certain times. Other users can then receive these notes based on their own location, the current time, and based on what type of messages they want to receive by adding filters based on their requirements. 
